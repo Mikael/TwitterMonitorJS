@@ -1,0 +1,11 @@
+{
+    "token": "Token",
+    "prefix": "!",
+    "activity": "Mikael sexy",
+    "developers": ["469999926861103124"],
+    "mongoDB": "mongodb link",
+    "twitterAPI": "api key",
+    "twitterSecret": "twitter secret ",
+    "twitterAccessToken": "access token",
+    "twitterTokenSecret": "access token secret"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "fiverr-order",
+  "version": "1.0.0",
+  "description": "unknown game calculator",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "mongoose": "^5.10.9",
+    "promised-twit": "^0.1.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mp3"
+  ],
+  "author": "Dalibor Trampota",
+  "license": "MIT"
+}
